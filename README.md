@@ -4,11 +4,12 @@ Repo for getting started doing CasparCG HTML template graphics with Tumult HYPE.
 ![Done in HYPE](https://github.com/5opr4ni/casparcg_template_hype/blob/master/images/Demo.png?raw=true "Demo Image")
 
 Watch the Video on how to use this on YouTube.
+[Video on YouTube](https://youtu.be/o98tgWf-vc8)
 
 Now when the CasparCG 2.3 LTS is near release you want an easy way of doing Templates, don't you.
 
 1. Get Tumult HYPE Pro (Sorry!) Not free software. But if someone wants to try to reconstruct the project for the simpler version you are welcome. This is sadly just a MacOS software. There is a software named Saola that exists on both Windows and Mac which I have but it is not even close in what you can do and how easy it makes it.
-2. Download Repo
+2. Download Repo 
 3. Unzip `CasparCG_Template_Master.hypetemplate.zip`
 4. Double-click `CasparCG_Template_Master.hypetemplate`
 5. Do your stuff
