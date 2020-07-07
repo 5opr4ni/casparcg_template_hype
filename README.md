@@ -1,7 +1,7 @@
 # CasparCG 2.3 LTS Templates in HYPE
 Repo for getting started doing CasparCG HTML template graphics with Tumult HYPE.
 
-
+![Done in HYPE](https://github.com/5opr4ni/casparcg_template_hype/blob/master/images/Demo.png?raw=true "Demo Image")
 
 Watch the Video on how to use this on YouTube.
 
